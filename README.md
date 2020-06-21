@@ -3,7 +3,7 @@ Visual Studio Extension to demonstrate adding a custom toobar menu
 
 See `Tools - Invoke Command1`
 
-Output is either not visiable at all, or is only seen in separate DOS process Window 
+Output is either not visible at all, or is only seen in separate DOS process Window 
 
 
 See also:
